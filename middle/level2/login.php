@@ -9,7 +9,8 @@ if ($zhenshiyonghu===$user & $pass===$zhenshimima){
     echo "欢迎登录，管理员!";
 }
 else{
-    echo "登录失败!!!";
+    echo "登录失败!!!!!";//长度不一致
 }
+
 
 ?>
